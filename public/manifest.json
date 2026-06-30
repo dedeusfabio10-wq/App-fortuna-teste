@@ -1,0 +1,26 @@
+{
+  "name": "Fortuna - Controle de Gastos e Economias",
+  "short_name": "Fortuna",
+  "description": "Seu organizador financeiro inteligente com foco em metas de economia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Nova Transação",
+      "short_name": "Nova",
+      "url": "/?open_add_transaction=true",
+      "description": "Adicionar nova transação rapidamente"
+    }
+  ]
+}

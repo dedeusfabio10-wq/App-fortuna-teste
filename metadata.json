@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Gastos e Economias",
+  "description": "Aplicativo para controle financeiro pessoal com divisão de custos fixos e variáveis, comparação mensal e meta de economia acumulada para atingir 10 mil reais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
